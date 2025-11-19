@@ -1,0 +1,3 @@
+Simulation systems	Force field	         Water model	Simulation time
+NUCnotail	        AMBER FF14SB + OL15	   OPC	         3 runs * 3000ns
+NUCtail	            AMBER FF14SB + OL15    OPC	         3 runs * 3000ns
