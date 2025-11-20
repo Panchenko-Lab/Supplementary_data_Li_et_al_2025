@@ -1,0 +1,3 @@
+Simulation system	Box dimensions (Å)	   Total number of atoms	Total number of water molecules	   Salt type	               Salt concentration
+NUCtail 	       302.7 × 302.7 × 302.7	3,639,214	                 888,921	                     Sodium chloride (NaCl)	       150 mM
+NUCnotail	       298.5 × 298.5 × 298.5	3,478,406	                 851,581	                     Sodium chloride (NaCl)	       150 mM
