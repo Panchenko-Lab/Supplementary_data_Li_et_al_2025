@@ -13,7 +13,6 @@ VMD version 1.9.3 is available at https://www.ks.uiuc.edu/Research/vmd/ <br />
 #### UCSF ChimeraX version 1.7
 - `sudo apt install ~/Downloads/ucsf-chimerax_1.7.amd64.deb`
 - `ChimeraX executable is /usr/bin/chimerax`
-- ``
 
 #### VMD version 1.9.3
 - `tar xvzf vmd-1.9.3.bin.LINUXAMD64-CUDA102-OptiX650-OSPRay185.opengl.tar.gz`
@@ -28,6 +27,7 @@ VMD version 1.9.3 is available at https://www.ks.uiuc.edu/Research/vmd/ <br />
 - `3. Set up the voxel Size in the command window: volume #1 voxelSize 5.51`
 - `4. Run the fitmap command: fitmap #2 inMap #1 resolution 16 search 1000 clusterAngle 200 clusterShift 24`
 - `5. From the Fit List, choose the appropriate pdb conformation and save it as a pdb file.`
+
 
 
 
